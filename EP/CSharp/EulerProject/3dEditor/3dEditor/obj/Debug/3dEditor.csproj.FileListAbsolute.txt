@@ -1,0 +1,18 @@
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\bin\Debug\3dEditor.exe.config
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\bin\Debug\3dEditor.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\bin\Debug\3dEditor.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\_3dEditor.Form1.resources
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\_3dEditor.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\3dEditor.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\3dEditor.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\3dEditor.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\3dEditor.csprojResolveAssemblyReference.cache
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\bin\Debug\3dEditor.exe.config
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\3dEditor.exe
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\3dEditor.pdb
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\bin\Debug\3dEditor.exe
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\bin\Debug\3dEditor.pdb
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\3dEditor.csprojResolveAssemblyReference.cache
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\_3dEditor.Form1.resources
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\_3dEditor.Properties.Resources.resources
+C:\Folder Mateusza\COLLEGE\EP\CSharp\EulerProject\3dEditor\3dEditor\obj\Debug\3dEditor.csproj.GenerateResource.Cache

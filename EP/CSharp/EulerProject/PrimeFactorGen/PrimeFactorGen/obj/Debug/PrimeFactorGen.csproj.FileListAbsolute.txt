@@ -1,0 +1,6 @@
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\PrimeFactorGen\PrimeFactorGen\bin\Debug\PrimeFactorGen.exe.config
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\PrimeFactorGen\PrimeFactorGen\bin\Debug\PrimeFactorGen.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\PrimeFactorGen\PrimeFactorGen\bin\Debug\PrimeFactorGen.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\PrimeFactorGen\PrimeFactorGen\obj\Debug\PrimeFactorGen.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\PrimeFactorGen\PrimeFactorGen\obj\Debug\PrimeFactorGen.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\PrimeFactorGen\PrimeFactorGen\obj\Debug\PrimeFactorGen.pdb

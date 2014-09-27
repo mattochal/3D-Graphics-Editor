@@ -1,0 +1,17 @@
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\bin\Debug\WpfGraphics.exe.config
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\bin\Debug\WpfGraphics.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\bin\Debug\WpfGraphics.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\WpfGraphics.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\App.g.cs
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\WpfGraphics_MarkupCompile.cache
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\WpfGraphics.g.resources
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\WpfGraphics.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\WpfGraphics.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\WpfGraphics.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\WpfGraphics.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\ToolBarWindow.baml
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\ToolBarWindow.g.cs
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\bin\Debug\WpfGraphics.exe.config
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\WpfGraphics\WpfGraphics\obj\Debug\WpfGraphics.exe

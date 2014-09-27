@@ -1,0 +1,171 @@
+﻿<Window x:Class="_3DGraphicsEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="MainWindow" Height="732" Width="1300">
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="140"/>
+            <ColumnDefinition Width="1000"/>
+            <ColumnDefinition Width="152"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="702"/>
+        </Grid.RowDefinitions>
+        <DockPanel 
+  Width="Auto" 
+  VerticalAlignment="Top" 
+  Height="700" 
+  HorizontalAlignment="Stretch" 
+  Grid.Column="1" 
+  Grid.Row="0" 
+  Grid.RowSpan="2" Grid.ColumnSpan="3" Margin="0,0,0,0">
+            <StackPanel KeyUp="StackPanel_KeyUp" KeyDown="StackPanel_KeyDown" Width="140" Margin="0,0,0,0" Height="700" VerticalAlignment="Top">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="Peru"/>
+                </StackPanel.Background>
+                <StackPanel Margin="10">
+                    <Button x:Name="addShapeButton" Click="addShapeButtonClick" Content="Add Shape"/>
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="X Position:" Height="16"/>
+                        <TextBox x:Name="shapePositionXTextBox" MaxLength="5" HorizontalAlignment="Left" Text="0" Width="64" TextAlignment="Right"/>
+
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Y Position:" Width="56" Height="16"/>
+                        <TextBox x:Name="shapePositionYTextBox" MaxLength="5" Text="0" HorizontalAlignment="Left" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Z Position:" Width="56" Height="16"/>
+                        <TextBox x:Name="shapePositionZTextBox" MaxLength="5" HorizontalAlignment="Left" Text="0" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <Separator/>
+                    <ListBox Margin="0, 0, 0, 0" x:Name="addShapelistBox" Width =" 120" HorizontalAlignment="Left" VerticalAlignment="Top">
+                        <ListBoxItem Content="Prism" Selected="ListBoxItem_Selected"/>
+                        <ListBoxItem Content="Cuboid"/>
+                        <ListBoxItem Content="Cylinder"/>
+                        <ListBoxItem Content="Background"/>
+                    </ListBox>
+                    <Separator/>
+                    <xctk:ColorPicker Name="ClrPckerShpe" SelectedColorChanged="ClrPcker_ColorChanged"></xctk:ColorPicker>
+                    <Separator/>
+                    <!-- buttons -->
+                    <Button x:Name="backgroundButton" Content="Background"/>
+                    <Button x:Name="updateListButton" Click="updateListButtonClick" Content="Update List"/>
+                    <Button x:Name="clearButton" Click="clearButtonClick" Content="Clear"/>
+                    <Button x:Name="iniCamPosButton" Click="iniCamPosButtonClick" Content="Initial Cam Pos"/>
+                    <Button x:Name="DestroyButton" Click="destroyButtonClick" Content="Destroy All"/>
+                </StackPanel>
+                <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+                <StackPanel Name="EditShapeStackPanel"  Height="auto" Visibility="Visible" Margin="10">
+
+                    <TextBlock Text="Edit Shape Menu"  FontWeight="Bold"/>
+                    <TextBlock Name="shapeNameTextBlock" Text=""></TextBlock>
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="X Position:" Height="16"/>
+                        <TextBox Name="EditShapePosXTextBox" MaxLength="5" HorizontalAlignment="Left" Text="0" Width="64" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Y Position:" Width="56" Height="16"/>
+                        <TextBox x:Name="EditShapePosYTextBox" MaxLength="5" Text="0" HorizontalAlignment="Left" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Z Position:" Width="56" Height="16"/>
+                        <TextBox x:Name="EditShapePosZTextBox" MaxLength="5" HorizontalAlignment="Left" Text="0" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <Separator/>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Update Shape Info:" Width="102" Height="16" HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.458" />
+                        <RadioButton Name="updateEditInfoRadBut" Width="11" RenderTransformOrigin="0.606,0.5" Height="12" IsChecked="True" />
+                    </StackPanel>
+
+
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="X Size:" Height="16" Width="56"/>
+                        <TextBox Name="EditShapeSizeXTextBox" MaxLength="5" HorizontalAlignment="Left" Text="1" Width="64" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Y Size:" Width="56" Height="16"/>
+                        <TextBox x:Name="EditShapeSizeYTextBox" MaxLength="5" Text="1" HorizontalAlignment="Left" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Z Size:" Width="56" Height="16"/>
+                        <TextBox x:Name="EditShapeSizeZTextBox" MaxLength="5" HorizontalAlignment="Left" Text="1" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <Separator></Separator>
+
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Z Rot:" Width="56" Height="16"/>
+                        <TextBox x:Name="EditShapeRotXTextBox" MaxLength="5" HorizontalAlignment="Left" Text="0" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Z Rot:" Width="56" Height="16"/>
+                        <TextBox x:Name="EditShapeRotYTextBox" MaxLength="5" HorizontalAlignment="Left" Text="0" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Z Rot:" Width="56" Height="16"/>
+                        <TextBox x:Name="EditShapeRotZTextBox" MaxLength="5" HorizontalAlignment="Left" Text="0" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1" Orientation="Horizontal">
+                        <TextBlock Text="Angle:" Width="56" Height="16"/>
+                        <TextBox x:Name="EditShapeAngleTextBox" MaxLength="5" HorizontalAlignment="Left" Text="0" Width="65" TextAlignment="Right"/>
+                    </StackPanel>
+
+                    <Button x:Name="editShapeButton" Click="editShapeButtonClick" Content="Edit Shape"/>
+                    <Button x:Name="DeleteShapeButton" Click="DeleteButtonClick" Content="Delete Shape"/>
+
+                </StackPanel>
+            </StackPanel>
+            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+            <Viewport3D Name="mainViewport" ClipToBounds="True" MouseWheel="mainViewport_MouseWheel" KeyUp="mainViewport_KeyUp" Width="1000" Margin="0,0,0,0" Height="700" VerticalAlignment="Top">
+                <Viewport3D.Camera>
+                    <PerspectiveCamera 
+	  FarPlaneDistance="300"
+	  LookDirection="-11,-10,-9"
+	  UpDirection="0,1,0"
+	  NearPlaneDistance="1" 
+	  Position="11,10,9" 
+	  FieldOfView="70" />
+                </Viewport3D.Camera>
+                <ModelVisual3D>
+                    <ModelVisual3D.Content>
+                        <DirectionalLight 
+	    Color="White" 
+	    Direction="-2,-3,-1" />
+                    </ModelVisual3D.Content>
+                </ModelVisual3D>
+
+            </Viewport3D>
+            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+            <StackPanel Width="160" Height="700" VerticalAlignment="Top">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="Peru"/>
+                </StackPanel.Background>
+                <StackPanel Margin="2">
+                    <TextBlock Text="Main Viewport:"/>
+                    <ListBox Name="ViewportListBox" Height="681" Background="Wheat" SelectionChanged="ListBox_SelectionChanged" Margin="-1,0,7,0"/>
+                </StackPanel>
+
+            </StackPanel>
+        </DockPanel>
+
+    </Grid>
+</Window>

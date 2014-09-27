@@ -1,0 +1,6 @@
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\EulerProject\EulerProject\bin\Debug\EulerProject.exe.config
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\EulerProject\EulerProject\bin\Debug\EulerProject.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\EulerProject\EulerProject\bin\Debug\EulerProject.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\EulerProject\EulerProject\obj\Debug\EulerProject.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\EulerProject\EulerProject\obj\Debug\EulerProject.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\EulerProject\EulerProject\obj\Debug\EulerProject.csprojResolveAssemblyReference.cache

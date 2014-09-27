@@ -1,0 +1,39 @@
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.exe.config
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\App.g.cs
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor_MarkupCompile.cache
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.g.resources
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\_3DGraphicsEditor.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.csprojResolveAssemblyReference.cache
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.exe.config
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.exe
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.pdb
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.exe
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.pdb
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.csprojResolveAssemblyReference.cache
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\MainWindow.baml
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\MainWindow.g.cs
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\App.g.cs
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor_MarkupCompile.cache
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.g.resources
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\_3DGraphicsEditor.Properties.Resources.resources
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.csproj.GenerateResource.Cache
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.exe.config
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.exe
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.pdb
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.exe
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\bin\Debug\3DGraphicsEditor.pdb
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.csprojResolveAssemblyReference.cache
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\MainWindow.baml
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\MainWindow.g.cs
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\App.g.cs
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\3DGraphicsEditor_MarkupCompile.cache
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.g.resources
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\_3DGraphicsEditor.Properties.Resources.resources
+C:\Folder Mateusza\COLLEGE\EP\CSharp\WPFGraphics\3DGraphicsEditor - 20140911\3DGraphicsEditor\obj\Debug\3DGraphicsEditor.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Mateusz\Desktop\EP\CSharp\EulerProject\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
